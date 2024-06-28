@@ -1,3 +1,4 @@
  this is my first git trial
 hello
 trial from github gui
+My trial with rebase command 
